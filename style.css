@@ -1,0 +1,145 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+.name{
+    color: #c41a5b;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.first-half{
+    width: 50%;
+    float: left;
+    margin-top: 100px;
+    
+    
+}
+.first-half img{
+    width: 90%;
+    height: 650px;
+}
+.first-top-left{
+    margin-top: 280px;
+}
+.first-section{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+section{
+    height: 900px;
+    padding: 0 200px;
+    
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,tomato,#F25A6F);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+
+}
+.first-p{
+    margin-bottom: 50px;
+}
+.second-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,tomato,#F25A6F);
+    padding: 20px 30px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+}
+.second-second{
+    margin-top: 200px;
+}
+.second-p{
+    margin-bottom: 50px;
+}
+.second-section{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+   
+    
+}
+.one{
+    /* width: 30%;
+    float: left;
+    padding: 1.5%; */
+}
+.three-images{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 50px;
+}
+.section-three h1{
+    margin: 100px 0 80px 0;
+}
+.section-three{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+}
+.section-four{
+    text-align: center;
+}
+.last-section{
+    margin: 50px 0;
+}
+.color-dim{
+    color: dimgray;
+    font-size: 10px;
+}
+.f4{
+    margin-bottom: 100px;
+    
+}
+.h5{
+    margin-top: 100px;
+}
+.final-box{
+    background-image: linear-gradient(45deg,tomato,#F25A6F);  
+    border-radius: 10px;
+    padding: 20px 120px;
+    width: 30%;
+    color: white;
+    
+}
+.one-p{
+    font-size: 12px;
+}
+.two-p{
+    font-size: 20px;
+}
+.middle{
+    display: flex;
+    justify-content: center;
+}
+.section-four{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+}
+.end{
+    color: dimgray;
+    font-size: 10px;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 190px;
+}
+
+
+
